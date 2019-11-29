@@ -27,6 +27,9 @@ For Twitter bootstrap:
 For Ionicons:
 - http://ionicons.com
 
+##  Update 2019-11-29 
+1) Add Yellow Color
+2) Change Green and LightGreen color
 
 ## Using the plugin
 - 1) First, follow the steps for including Font-Awesome or Twitter bootstrap or Ionicons into your application.
